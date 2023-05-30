@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Beauty_World---React/static/css/main.7d563e9b.css",
+    "main.js": "/Beauty_World---React/static/js/main.dce777a7.js",
+    "index.html": "/Beauty_World---React/index.html",
+    "main.7d563e9b.css.map": "/Beauty_World---React/static/css/main.7d563e9b.css.map",
+    "main.dce777a7.js.map": "/Beauty_World---React/static/js/main.dce777a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d563e9b.css",
+    "static/js/main.dce777a7.js"
+  ]
+}
